@@ -17,3 +17,5 @@ require (
 	golang.org/x/time v0.0.0-20220609170525-579cf78fd858 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/cavaliercoder/go-zabbix => github.com/wmaurin/go-zabbix v0.0.0-20260327202314-f35959ea1445
